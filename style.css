@@ -1,10 +1,8 @@
 h1{
-    color: red;
-    list-style: circle;
-    motion: circle();
+    color: brown;
 }
 body{
-    background-color: brown;
+    background-color: rgb(183, 210, 33);
 }
 
 h2{
