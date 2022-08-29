@@ -2,5 +2,3 @@
 this project for test.
 
 <h1>Hello<h1>
-
-print('hello')
