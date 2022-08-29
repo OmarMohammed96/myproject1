@@ -3,6 +3,9 @@ h1{
     list-style: circle;
     motion: circle();
 }
+body{
+    background-color: brown;
+}
 
 h2{
     color: blue;
